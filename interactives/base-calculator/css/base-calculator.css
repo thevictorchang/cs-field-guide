@@ -1,0 +1,25 @@
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  justify-content: space-around;
+  line-height:30px;
+}
+.flex-container-column {
+  flex-direction: column;
+}
+.flex-item {
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+  flex: 1 0 auto;
+  height:auto;
+}
+#interactive-binary-numbers-footer {
+  padding-top: 2rem;  color: grey;}#interactive-binary-numbers-footer > p {  font-size: 0.8rem;}
