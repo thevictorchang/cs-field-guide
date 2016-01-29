@@ -6,12 +6,12 @@ for the following NCEA Achievement Standards:
 - AS91371 (2.44)
 - AS91636 (3.44)
 
-The computer science externals can be particularly time consuming for Merit/ Excellence.
+The computer science externals can be particularly time consuming for Merit/Excellence.
 For some students, it is better to just focus on doing the Achieved material well.
 For this reason, we provide separate guides for students aiming for subject endorsement and for students aiming to get the credits.
 
-*Note: These guides are still a work in progress.*
-*We recommend reading the guidance on this page very carefully to ensure students are working on the right material.
+**Note:** *These guides are still a work in progress.
+We recommend reading the guidance on this page very carefully to ensure students are working on the right material.
 There is also a lot of material available online from NZQA, and good ideas shared on the [NZACDITT](http://nzacditt.org.nz/) mailing list.*
 
 ## AS91074 (1.44)
@@ -116,6 +116,6 @@ Students will need to pick **one** project from here. Which they pick will depen
 - For Merit/ Excellence: [Human Computer Interaction - evaluating an interface with heuristics (Merit/ Excellence) ](curriculum-guides/ncea/assessment-guide-level-2-full-human-computer-interaction.html)
 
 
-# AS91636 3.44
+## AS91636 3.44
 
 Software Engineering: [Software Methodologies](curriculum-guides/ncea/assessment-guide-level-3-software-engineering-methodologies.html)
